@@ -1,10 +1,10 @@
-<a href="https://svilenkovic.com/en/aplikacija-admin-panel"><img src="media/cover.jpg" alt="Admin Panel, home page on a laptop and a phone" width="100%"></a>
+<a href="https://svilenkovic.com/aplikacija-admin-panel"><img src="media/cover.jpg" alt="Admin Panel, home page on a laptop and a phone" width="100%"></a>
 
 # Admin Panel
 
 My internal panel for the sites I host: clients, billing with exchange rates, reminders, statistics, and CLI and cron jobs over SSH.
 
-[App page](https://svilenkovic.com/en/aplikacija-admin-panel) · [Srpski](README.sr.md)
+[App page](https://svilenkovic.com/aplikacija-admin-panel) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > My own product. The source code is private. This page describes what it does and how it is built.

@@ -1,4 +1,4 @@
-<a href="https://svilenkovic.com/en/aplikacija-admin-panel"><img src="media/cover.jpg" alt="Admin Panel, naslovna strana na laptopu i telefonu" width="100%"></a>
+<a href="https://svilenkovic.com/aplikacija-admin-panel"><img src="media/cover.jpg" alt="Admin Panel, naslovna strana na laptopu i telefonu" width="100%"></a>
 
 # Admin Panel
 
